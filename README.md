@@ -1,4 +1,4 @@
-![I am a MERN Stack Web Developer](https://i.ibb.co/fvWRTZK/bg-2.png)
+![I am a MERN Stack Web Developer](https://i.ibb.co/vqRnDHC/github-Pic.png)
 # Hi there 👋,
 ## My name is Rubel Mia
 #### I am a MERN Stack Web Developer
